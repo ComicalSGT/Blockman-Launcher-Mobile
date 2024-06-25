@@ -14,4 +14,4 @@ This repository contains the mobile aplication of the Blockman Launcher project.
 ## How is work?
 - Blockman Launcher Mobile Project use webView to preview website.
 - You can contribute at that project only with Mobile phone using Apk Builder released by SteelWorks
-- Supports: That application supports these languages:Romanian, English, Russian, Spanish, Italian, Chinesse
+- Supports: That application supports a lot of languages, a few example are:Romanian, English, Russian, Spanish, Italian, Chinesse
