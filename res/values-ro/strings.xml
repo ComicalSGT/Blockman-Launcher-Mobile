@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Blockman Launcher</string>
+    <string name="permission_refused">Aplicația nu poate rula, deoarece nu au fost acordate toate permisiunile</string>
+    <string name="permission_accepted">Aplicația poate rula, deoarece nu au fost acordate toate permisiunile</string>
+    <string name="welcome">Bine ați venit la aplicația Blockman Launcher!</string>
+</resources>

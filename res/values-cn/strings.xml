@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Blockman Launcher</string>
+    <string name="permission_refused">应用无法运行，因为尚未授予所有权限</string>
+    <string name="permission_accepted">应用可以运行，因为尚未授予所有权限</string>
+    <string name="welcome">欢迎来到 Blockman Launcher 应用程序</string>
+</resources>

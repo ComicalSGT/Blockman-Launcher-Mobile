@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Blockman Launcher</string>
+    <string name="permission_refused">App can not run because all permissions were not granted</string>
+    <string name="permission_accepted">App can run because all permissions were not granted</string>
+    <string name="welcome">Welcome to the Blockman Launcher app!</string>
+</resources>
